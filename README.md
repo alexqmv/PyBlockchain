@@ -10,4 +10,4 @@ At first I tried to generate a hash randomly, but fortunately I came across one 
 
 _README.md_ the file will be updated in the future.
 __19:07__
-__[UPD] - OPEN 'main.py'__
+__[UPD] - OPEN 'hash.py'__
