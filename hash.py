@@ -19,7 +19,7 @@ class Networkus_Blockchain2:
 		self.bblock_hash = hashlib.md5(self.bblock_data.encode()).hexdigest()
 
 
-t1 = "qumara99@icloud.com"                # Transaction 1 [Using]
+t1 = "user@user.com"                # Transaction 1 [Using]
 t2 = "ilovedogs2000"		       # Transaction 2 [Using]
 
 
