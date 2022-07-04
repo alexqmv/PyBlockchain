@@ -6,9 +6,9 @@ from os.path import basename
 from email.mime.multipart import MIMEMultipart
 from email.mime.application import MIMEApplication
 from email.mime.text import MIMEText
-email_sender = "help.feedback@mail.ru"
-password = "vm4oUaZSJB3z3gKxwjEv"
-# email_getter = "qumara99@icloud.com"
+email_sender = "YOURMAIL.RU"
+password = "YOUR MAIL.RU PASSWORD"
+ 
 
 smtp_server = smtplib.SMTP("smtp.mail.ru", 2525)
 smtp_server.starttls()
