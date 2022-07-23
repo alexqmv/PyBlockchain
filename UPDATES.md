@@ -18,7 +18,7 @@ ________________________________________________________________________________
 * Whatsapp Verification
 * Secure Optimisation
 
-
+# __LICENSE__
 * Welcome to our repository of the project I'm still working on. Here you can see a lot of buns that I added to the code.I will be glad if you comment and advise further updates in the code. I'm also thinking about creating this project not as a console, but as a User Interface on a Desktop or mobile devices. Maybe there is no sense, but it will be interesting!!
 
 * Everyone can use this open source code.No warranty is supplied.If something is wrong with the code on your device, no one is responsible for it.
@@ -26,10 +26,13 @@ ________________________________________________________________________________
 * __**hashServ.py**__ is a **NEW** Repository,where i minted SMTPxHashLib. 
 
 ___________________________________________________________________________________________________________________________________________________________
-Support & Help  
-help.feedback@mail.ru
+# Support & Help  
+ help.feedback@mail.ru
 
  
-
-© @alex.qmv
+# Soc.Medias:
+Twitter - @lexxcvv
+Instagram - @alex.qmv
+YouTube - @Lex
+© @lexxcvv
 
